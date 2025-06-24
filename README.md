@@ -1,6 +1,5 @@
 # Curriculum Learning based on Loss Differences for text classification using ModernBERT
-Эксперименты с Curriculum Learning в рамках классификации текстов для задачи классификации текстов.
-
+Curriculum Learning эксперименты с ModernBERT для задачи классификации текстов.
 
 **Датасеты:**
 1. https://huggingface.co/datasets/stanfordnlp/imdb - Sentiment analysis dataset с бинарными метками
